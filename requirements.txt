@@ -1,0 +1,7 @@
+plyvel==0.9
+jsonrpclib
+python-bitcoinrpc==0.1
+appdirs==1.4.3
+git+https://github.com/benywan/ddcsschema.git#egg=ddcsschema
+Beaker==1.9.0
+Twisted==16.6.0
